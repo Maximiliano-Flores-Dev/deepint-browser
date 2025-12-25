@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maximiliano-Flores-Dev/deepint-browser/main/assets/logo.png" width="200" alt="DeepInt Logo">
+</p>
+
+
 # 🛡️ DeepInt Browser
 > **Private Intelligence & Deep Web Navigation Engine**
 
