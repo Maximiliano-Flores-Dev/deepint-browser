@@ -26,5 +26,5 @@ Este proyecto está bajo la Licencia MIT. Eres libre de usarlo, modificarlo y di
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/deepint-browser.git](https://github.com/Maximiliano-Flores-Dev/deepint-browser.git)
+     git clone [https://github.com/Maximiliano-Flores-Dev/deepint-browser.git](https://github.com/Maximiliano-Flores-Dev/deepint-browser.git)
    cd deepint-browser
