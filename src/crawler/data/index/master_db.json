@@ -2,6 +2,6 @@
     {
         "url": "http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfima3ogtwv7v6tcad.onion",
         "status": "offline",
-        "error": "SOCKSHTTPConnectionPool(host='duckduckgogg42xjoc72x3sjasowoarfbgcmvfima3ogtwv7v6tcad.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x7b1678ff80>: Failed to establish a new connection: [Errno 111] Connection refused'))"
+        "error": "SOCKSHTTPConnectionPool(host='duckduckgogg42xjoc72x3sjasowoarfbgcmvfima3ogtwv7v6tcad.onion', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.contrib.socks.SOCKSConnection object at 0x778f2259a0>: Failed to establish a new connection: [Errno 111] Connection refused'))"
     }
 ]
